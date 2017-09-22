@@ -1,4 +1,4 @@
-### Welcome guys
+### Welcome guys :
 ##  ~ this is the GitHub Pages for Kids Who Code KWC porgram here.
 
 Hi Adam,
