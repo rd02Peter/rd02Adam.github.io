@@ -1,4 +1,5 @@
-## Welcome to GitHub Pages study for Kids Who Code porgram in InRich Class
+### Welcome guys
+##  ~ this is the GitHub Pages for Kids Who Code KWC porgram here.
 
 Hi Adam,
 
