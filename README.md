@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages, Adam
+## Welcome to GitHub Pages class in InRich Kid Who Code porgram
 
 Hi Adam,
 
