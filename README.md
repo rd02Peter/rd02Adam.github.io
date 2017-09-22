@@ -1,4 +1,4 @@
-# Welcome,
+# Welcome, ^_^
 ##  ~ this is the GitHub Pages for Kids Who Code KWC porgram here.
 
 Hi Adam,
